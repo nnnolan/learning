@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My first web page</title>
+</head>
+<body>
+    <h1>This is my first web page</h1>
+    <p>How Exciting!</p>
+    <h2>Why does this exist?</h2>
+    <ul>
+        <li>to learn HTML </li>
+        <li>to start projects</li>
+        <li>for caps ! :)</li>
+            <ol>
+                <li>to my future boss </li>
+                <li>to mr. ian, the instructor</li>
+                <li> to hopefully start an internship</li>
+            </ol>
+    </ul>
+</body>
+</html>

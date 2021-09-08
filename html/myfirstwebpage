@@ -5,8 +5,12 @@
 </head>
 <body>
     <h1>This is my first web page</h1>
+    <h2>Website where I learned to use html</h2>
+    <p><a href="htmldog.com">HTML Dog, a free HTML learning serbice</a></p>
+   <p><img src="https://htmldog.com/rAF/htmldog.png" width="120" height="120" alt="html dog badge"></p> 
+    <p><img src="https://miro.medium.com/max/1000/0*08FXLCON4eRuhTz3"width="500" height="500"></p>
     <p>How Exciting!</p>
-    <h2>Why does this exist?</h2>
+    <h3>Why does this exist?</h3>
     <ul>
         <li>to learn HTML </li>
         <li>to start projects</li>
@@ -15,7 +19,16 @@
                 <li>to my future boss </li>
                 <li>to mr. ian, the instructor</li>
                 <li> to hopefully start an internship</li>
+                    <ol>
+                        <li>I really want to work at a tech company! Maybe tesla? Or a startup!</li>
+                    </ol>
             </ol>
     </ul>
+    <p>
+        <h1>What is CAPS?</h1>
+            <p>
+                <a href="https://www.northlandcaps.org/s/1625/bp19/home.aspx">Northland Center for Advanced Professional Studies,</a>or simply just CAPS, is a school program that offers a professional enviroment for those interested in a professional career.
+            </p>
+    </p>
 </body>
 </html>

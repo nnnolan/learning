@@ -1,0 +1,35 @@
+            <!--no php so this doesnt work lol, maybe i'll look more into php later
+            but for now, this is just reference. if implemented, will use a already made php script
+            also want to use placeholder and onfocus and onblur attributes so "your x" dissapears-->
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <h1> Northland CAPS Interest Form </h1>
+        <p><strong>Note:</strong> No way of submitting the form. Only show. For now.</p>
+        <form action="interest.php" method="post">
+            <p>Name :</p>
+            <p><input type="text" name="name" value="your name"></p>
+
+            <p>Email :</p>
+            <p><input type="text" name="email" value="your email"></p>
+            <p>School :</p>
+            <p><input type="text" name="school" value= "your school"></p>
+<!-- i will figure this out later, select seems more efficent although i prefer radio options.
+            <p>You will be a...</p>
+            <p><input type="radio" name="grade" value="Junior"><br>
+            <input type="radio" name="grade" value="Senior"></p>--> 
+            <p>You will be a... :</p>
+            <p><select></p>
+                <option> Junior</option>
+                <option> Senior</option>
+            </select>
+            <p>Gender :</p>
+            <p><input type="radio" name="gender" value="male"> Male</p>
+            <p><input type="radio" name="gender" value="female"> Female</p>
+            <p><input type="radio" name="gender" value="unlisted"> Unlisted or Prefer Not To Say</p>
+           
+            <p><textarea name="contents" rows="5" cols="20"> Questions, Comments, or Concern</textarea></p>
+            <p><input type="submit"></p>
+        </form>
+    </head>
+</html>
